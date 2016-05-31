@@ -1,0 +1,9 @@
+#include<iostream>
+
+int main
+{
+	std::cout << "It all begins" << std::endl;
+	return 0;
+}
+ 
+ 
